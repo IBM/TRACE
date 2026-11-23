@@ -1,7 +1,5 @@
 # MAINTAINERS
 
-Mo McElaney - mmcelaney@us.ibm.com
+William Simon - <william.simon1@ibm.com>
 
-JJ Asghar - jja@ibm.com
-
-Brad Topol - btopol@us.ibm.com
+Orhun Görkem - <Orhun.Goerkem1@ibm.com>
